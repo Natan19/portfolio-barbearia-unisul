@@ -1,3 +1,5 @@
+![Logo](https://i.imgur.com/6KvREwW.jpg)
+
 Equipe: Ana Julia, Natan Gazola, Augusto Martins.
 
 # Introdução
