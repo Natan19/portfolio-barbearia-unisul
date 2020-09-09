@@ -24,7 +24,7 @@ $table-border-color: #e9ebec !default;
 $hr-border-color: #eff0f1 !default;
 
 
-@import "{{ site.theme }}";
+@import "jekyll-theme-cayman";
 
 .site-footer { display: none; }
 .page-header {
