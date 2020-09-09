@@ -1,10 +1,5 @@
+$header-bg-color: #B09E80 !default;
+$header-bg-color-secondary: #192537 !default;
+$section-headings-color: #B09E80 !default;
+
 @import "{{ site.theme }}";
-
-.main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 {
-    color: #B09E80 !important;
-  }
-
-.page-header {
-    background-color: #B09E80 !important;
-    background-image: linear-gradient(120deg, #192537, #B09E80) !important;
-}
