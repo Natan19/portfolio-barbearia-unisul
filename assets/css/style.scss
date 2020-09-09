@@ -1,1 +1,15 @@
 @import "{{ site.theme }}";
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    color: #B09E80 !important;
+  }
+
+.page-header {
+    background-color: #B09E80 !important;
+    background-image: linear-gradient(120deg, #192537, #B09E80) !important;
+}
