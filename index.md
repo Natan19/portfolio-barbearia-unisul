@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+Equipe: Ana Julia, Natan Gazola, Augusto Martins.
 
-You can use the [editor on GitHub](https://github.com/Natan19/portfolio-barbearia-unisul/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# Introdução
+Este portfólio trata de formalizar os requisitos funcionais e não funcionais da aplicação a ser desenvolvida durante as aulas da matéria de Aplicação da Engenharia de Software. Também trata de detalhar o progresso de seu desenvolvimento.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Requisitos funcionais
 
-### Markdown
+### RF001: Landing page
+Descrição: Página inicial do site onde seja possível ver com facilidade informações sobre o estabelecimento (Barber Shop Village) e seus canais de atendimento como telefone, email, etc.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### RF002: Fluxo de cadastro
+Descrição: O fluxo de cadastro consiste nas áreas de login, consulta de dados pessoais, cadastro.
 
-```markdown
-Syntax highlighted code block
+### RF003: Área de agendamento
+Descrição: Área onde seja possível o usuário: Consultar barbeiros, consultar agenda dos barbeiros, agendar sessões com barbeiros. E onde seja possível o barbeiro: cadastrar sua agenda, cadastrar preços.
 
-# Header 1
-## Header 2
-### Header 3
+### RF004: Área de portfólio
+Descrição: Área onde seja possível o usuário: Consultar os trabalhos do barbeiro específico - através de fotos - e também as especialidades dele.
+Onde seja possível o barbeiro: Cadastrar os seus trabalhos - fotos -, definir suas especialidades.
 
-- Bulleted
-- List
+### RF005: Área de feedback
+Descrição: Área onde seja possível que o usuário de uma nota para o serviço que o barbeiro lhe prestou, sendo essa de 1 a 5. E também onde seja possível cadastrar um comentário caso o usuário/cliente queira.
 
-1. Numbered
-2. List
+# Requisitos não funcionais
 
-**Bold** and _Italic_ and `Code` text
+### RNF001: Segurança
+Descrição: É necessário que todas as informações sensíveis sejam armazenadas com segurança para evitar vazamentos.
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Natan19/portfolio-barbearia-unisul/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### RNF002: Desempenho
+Descrição: A aplicação deverá ter um desempenho razoável, não levando mais que 30 segundos para realizar ações básicas. Também deve ser possível acessá-la offline (exceto função de agendamento).
