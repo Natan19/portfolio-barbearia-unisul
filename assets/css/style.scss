@@ -4,11 +4,11 @@ $medium-breakpoint: 42em !default;
 
 // Headers
 $header-heading-color: #fff !default;
-$header-bg-color: #B09E80 !important;
-$header-bg-color-secondary: #192537 !important;
+$header-bg-color: #B09E80 !default;
+$header-bg-color-secondary: #192537 !default;
 
 // Text
-$section-headings-color: #B09E80 !important;
+$section-headings-color: #B09E80 !default;
 $body-text-color: #606c71 !default;
 $body-link-color: #1e6bb8 !default;
 $blockquote-text-color: #819198 !default;
@@ -23,3 +23,5 @@ $table-border-color: #e9ebec !default;
 $hr-border-color: #eff0f1 !default;
 
 @import "{{ site.theme }}";
+
+.site-footer { display: none; }
