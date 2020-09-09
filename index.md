@@ -28,3 +28,6 @@ Descrição: É necessário que todas as informações sensíveis sejam armazena
 
 ### RNF002: Desempenho
 Descrição: A aplicação deverá ter um desempenho razoável, não levando mais que 30 segundos para realizar ações básicas. Também deve ser possível acessá-la offline (exceto função de agendamento).
+
+## Se preferir a versão completa do documento faça o download:
+[Documento completo](https://docs.google.com/document/d/1Wbn6q-uAzTvpI6HY3tQvaL77RzUD2yGxHRVo6WFnbek/edit?usp=sharing)
