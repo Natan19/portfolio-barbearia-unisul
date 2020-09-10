@@ -11,17 +11,17 @@ Descrição: Página inicial do site onde seja possível ver com facilidade info
 ### RF002: Fluxo de cadastro
 Descrição: O fluxo de cadastro consiste nas áreas de login, consulta de dados pessoais, cadastro.
 
-### RF002: Área de pesquisa de barbeiros.
+### RF003: Área de pesquisa de barbeiros.
 Descrição: Área onde seja possível o usuário: Pesquisar barbeiros através de filtros como, por exemplo, especialidades: crespo, liso, cacheado.
 
-### RF003: Área de agendamento
+### RF004: Área de agendamento
  Descrição: Área onde seja possível consultar agenda dos barbeiros, agendar sessões com barbeiros. E onde seja possível o barbeiro: cadastrar sua agenda, cadastrar preços.
 
-### RF004: Área de portfólio
+### RF005: Área de portfólio
 Descrição: Área onde seja possível o usuário: Consultar os trabalhos do barbeiro específico - através de fotos - e também as especialidades dele.
 Onde seja possível o barbeiro: Cadastrar os seus trabalhos - fotos -, definir suas especialidades.
 
-### RF005: Área de feedback
+### RF006: Área de feedback
 Descrição: Área onde seja possível que o usuário de uma nota para o serviço que o barbeiro lhe prestou, sendo essa de 1 a 5. E também onde seja possível cadastrar um comentário caso o usuário/cliente queira.
 
 # Requisitos não funcionais
@@ -31,6 +31,12 @@ Descrição: É necessário que todas as informações sensíveis sejam armazena
 
 ### RNF002: Desempenho
 Descrição: A aplicação deverá ter um desempenho razoável, não levando mais que 30 segundos para realizar ações básicas. Também deve ser possível acessá-la offline (exceto função de agendamento).
+
+### RNF003: Armazenamento local para uso offline
+Descrição: A aplicação deverá manter parte dos dados cacheados no dispositivo do usuário para que seja possível utilizar o aplicativo offline (exceto agendamento).
+
+### RNF004: Armazenamento persistente
+Descrição: A aplicação deverá ser capaz de salvar os dados usuários entre sessões, de maneira que seja possível consultar históricos e coisas salvas. (Banco de dados)
 
 ## Se preferir a versão completa do documento faça o download:
 [Documento completo](https://docs.google.com/document/d/1Wbn6q-uAzTvpI6HY3tQvaL77RzUD2yGxHRVo6WFnbek/edit?usp=sharing)
