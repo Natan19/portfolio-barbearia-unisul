@@ -11,8 +11,11 @@ Descrição: Página inicial do site onde seja possível ver com facilidade info
 ### RF002: Fluxo de cadastro
 Descrição: O fluxo de cadastro consiste nas áreas de login, consulta de dados pessoais, cadastro.
 
+### RF002: Área de pesquisa de barbeiros.
+Descrição: Área onde seja possível o usuário: Pesquisar barbeiros através de filtros como, por exemplo, especialidades: crespo, liso, cacheado.
+
 ### RF003: Área de agendamento
-Descrição: Área onde seja possível o usuário: Consultar barbeiros, consultar agenda dos barbeiros, agendar sessões com barbeiros. E onde seja possível o barbeiro: cadastrar sua agenda, cadastrar preços.
+ Descrição: Área onde seja possível consultar agenda dos barbeiros, agendar sessões com barbeiros. E onde seja possível o barbeiro: cadastrar sua agenda, cadastrar preços.
 
 ### RF004: Área de portfólio
 Descrição: Área onde seja possível o usuário: Consultar os trabalhos do barbeiro específico - através de fotos - e também as especialidades dele.
