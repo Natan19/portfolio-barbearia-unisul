@@ -30,7 +30,7 @@ Descrição: Área onde seja possível que o usuário de uma nota para o serviç
 Descrição: É necessário que todas as informações sensíveis sejam armazenadas com segurança para evitar vazamentos.
 
 ### RNF002: Desempenho
-Descrição: A aplicação deverá ter um desempenho razoável, não levando mais que 30 segundos para realizar ações básicas. Também deve ser possível acessá-la offline (exceto função de agendamento).
+Descrição: A aplicação deverá ter um desempenho razoável, não levando mais que 30 segundos para realizar ações básicas.
 
 ### RNF003: Armazenamento local para uso offline
 Descrição: A aplicação deverá manter parte dos dados cacheados no dispositivo do usuário para que seja possível utilizar o aplicativo offline (exceto agendamento).
