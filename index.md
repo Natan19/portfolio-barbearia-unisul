@@ -33,10 +33,14 @@ Descrição: É necessário que todas as informações sensíveis sejam armazena
 Descrição: A aplicação deverá ter um desempenho razoável, não levando mais que 30 segundos para realizar ações básicas.
 
 ### RNF003: Armazenamento local para uso offline
-Descrição: A aplicação deverá manter parte dos dados cacheados no dispositivo do usuário para que seja possível utilizar o aplicativo offline (exceto agendamento).
+Descrição: A aplicação deverá manter parte dos dados em cache* no dispositivo do usuário para que seja possível utilizar o aplicativo offline (exceto agendamento).
 
 ### RNF004: Armazenamento persistente
 Descrição: A aplicação deverá ser capaz de salvar os dados usuários entre sessões, de maneira que seja possível consultar históricos e coisas salvas. (Banco de dados)
 
 ## Se preferir a versão completa do documento faça o download:
 [Documento completo](https://docs.google.com/document/d/1Wbn6q-uAzTvpI6HY3tQvaL77RzUD2yGxHRVo6WFnbek/edit?usp=sharing)
+
+## *Glossário:
+### Cache:
+Armazenamento de informações de maneira local para que novas requisições do mesmo tipo de informação não sejam necessárias. Exemplo: Manter sua sessão em um site salva para que você possa acessar posteriormente sem precisar realizar novamente o processo de login.
