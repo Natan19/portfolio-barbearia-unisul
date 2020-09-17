@@ -44,3 +44,7 @@ Descrição: A aplicação deverá ser capaz de salvar os dados usuários entre 
 ## *Glossário:
 ### Cache:
 Armazenamento de informações de maneira local para que novas requisições do mesmo tipo de informação não sejam necessárias. Exemplo: Manter sua sessão em um site salva para que você possa acessar posteriormente sem precisar realizar novamente o processo de login.
+
+## Link para o protótipo:
+- [Visão do usuário](https://www.figma.com/proto/GE4pAzxOZTuOxwlLoxkS0X/Barbearia?node-id=0%3A1&scaling=min-zoom)
+- [Visão do barbeiro](https://www.figma.com/proto/GE4pAzxOZTuOxwlLoxkS0X/Barbearia?node-id=84%3A26&scaling=min-zoom)
